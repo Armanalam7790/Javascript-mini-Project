@@ -22,7 +22,7 @@
 
 var btn  = document.querySelector("button")
 var main = document.querySelector("main")
-let arr  = ['Arman','Aamir','Abhishek sir','Sudama',"Mohit","Piyush","Sohil","Anshu","MD Ejaj","Parshant",]
+let arr  = ['Arman','Aamir','Abhishek sir','Abhishek sir' ,'Sudama',"Mohit","Piyush","Sohil","Anshu","MD Ejaj","Parshant",]
 
 btn.addEventListener("click", function () {
   var div  =   document.createElement("div")

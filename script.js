@@ -1,28 +1,7 @@
-//create element
-// var btn = document.querySelector("button")
-
-
-// btn.addEventListener("click", function() {
-//      var h1  =  document.createElement("h1")
-//      h1.innerHTML =  "hello frm js"
-//      console.log(h1);
-
-// })
-
-//apend
-
-//    var h1  =  document.createElement("h1")
-// h1.innerHTML = "hello from js"
-
-// var main  = document.querySelector("main")
-
-// main.append(h1)
-
-
 
 var btn  = document.querySelector("button")
 var main = document.querySelector("main")
-let arr  = ['Arman','Aamir','Abhishek sir','Abhishek sir' ,'Sudama',"Mohit","Piyush","Sohil","Anshu","MD Ejaj","Parshant",]
+let arr  = ['Arman','Aamir','Abhishek sir','Abhishek sir' ,'Sudama',"Mohit","Piyush","Sohil","Anshu","MD Ejaj","Parshant","kajal","Harshita", "Goku","Shailendri"]
 
 btn.addEventListener("click", function () {
   var div  =   document.createElement("div")
